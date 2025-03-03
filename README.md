@@ -6,6 +6,8 @@ run: "npm install -g pnpm"
 
 # Running the program
 
+Run: "pnpm install"
+
 open the folder "frontend" and the folder "backend" in an integrated terminal. Run the following command on both terminals:
 run: "pnpm run dev"
 
