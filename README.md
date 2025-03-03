@@ -1,3 +1,7 @@
+# Notes
+
+This project is one of two projects originaly located in my github-repo "webapplikasjoner_eksamen". To view the full development history, head over to that project. However, this repository is designed to give you a quick and easy overview of the project without any unnecessary distractions.
+
 # Installation
 
 To run the project you need to have pnpm installed. Make sure its installed 
