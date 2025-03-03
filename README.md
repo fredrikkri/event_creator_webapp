@@ -15,3 +15,4 @@ When you run the command "pnpm run dev" when you are located in the directory "f
 
 # Images
 
+![home-page](images/homepage_arena.png)
