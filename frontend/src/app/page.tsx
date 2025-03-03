@@ -9,7 +9,7 @@ export default function LandingPage() {
       <section className="flex-1 flex items-center justify-center bg-cover bg-center py-24"  >
         <div className="text-center p-6 bg-white rounded-lg">
           <h2 className="text-4xl font-semibold text-gray-900 mb-4 p-22">
-            Eksamen gruppe 18
+            Booking Arena
           </h2>
           <a
             href="http://localhost:4000/events"
