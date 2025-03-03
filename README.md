@@ -16,3 +16,15 @@ When you run the command "pnpm run dev" when you are located in the directory "f
 # Images
 
 ![home-page](images/homepage_arena.png)
+
+![home-page](images/template_arena.png)
+
+![home-page](images/create_event_arena.png)
+
+![home-page](images/excel_arena.png)
+
+![home-page](images/single_event_arena.png)
+
+![home-page](images/join_event_arena.png)
+
+![home-page](images/admin_event_arena.png)
